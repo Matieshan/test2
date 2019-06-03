@@ -12,7 +12,7 @@ public interface UserMapper {
 	 * @param user 用户数据
 	 * @return 受影响的行数
 	 */
-	Integer addnew(User user);
+	
 	
 	
 	
