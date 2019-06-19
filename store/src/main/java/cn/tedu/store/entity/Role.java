@@ -11,4 +11,5 @@ public class Role {
     public int flag;
     public String time;
     public String send;
+    public String userNo;
 }
