@@ -12,4 +12,5 @@ public class Role {
     public String time;
     public String send;
     public String userNo;
+    public int success;
 }
