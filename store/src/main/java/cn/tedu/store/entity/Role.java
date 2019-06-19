@@ -7,4 +7,5 @@ package cn.tedu.store.entity;
 public class Role {
     private int id;
     public String phone;
+    public String at;
 }
